@@ -1,6 +1,6 @@
 # AI-based Sentiment Analysis for Hotel Customer Reviews
 
-An end-to-end solution for analyzing hotel customer reviews using artificial neural networks (ANN) and Ordinary Least Squares (OLS) regression. This platform provides a comprehensive ecosystem that enables researchers to advance sentiment analysis capabilities and allows developers to build and deploy sentiment analysis applications.
+An end-to-end solution for analyzing hotel customer reviews using artificial neural networks (ANN) & Ordinary Least Squares (OLS) regression. This platform provides a comprehensive ecosystem that enables researchers to advance sentiment analysis capabilities and allows developers to build and deploy sentiment analysis applications.
 
 ## 🎯 Project Overview
 
