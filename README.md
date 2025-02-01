@@ -81,9 +81,6 @@ code/
 data/
 ├── hotels_list.csv            # Raw data
 ├── joint_data_collection.csv  # Processed data
-├── training_data.csv          # Training set (80%)
-├── test_data.csv             # Test set (20%)
-├── activation_data.csv        # Validation sample
 ```
 
 ### Docker Images
