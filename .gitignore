@@ -8,3 +8,12 @@ temp/
 code/logs
 code/experiments/logs
 code/messageClient/logs
+
+# ignore ALL files in ANY directory named env
+env/
+__pycache__/
+*.pyo
+*.pyd
+.Python
+.env
+*.so
