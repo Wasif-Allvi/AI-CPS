@@ -1,0 +1,32 @@
+,0
+r2_score,0.576038838971183
+mse,0.15280264888067527
+rmse,0.39089979391229573
+model_summary,"                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  score   R-squared:                       0.521
+Model:                            OLS   Adj. R-squared:                  0.519
+Method:                 Least Squares   F-statistic:                     205.3
+Date:                Fri, 24 Jan 2025   Prob (F-statistic):          4.53e-119
+Time:                        20:51:53   Log-Likelihood:                -416.85
+No. Observations:                 759   AIC:                             843.7
+Df Residuals:                     754   BIC:                             866.9
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+const                    8.7523      0.080    109.508      0.000       8.595       8.909
+review_text              0.2271      0.012     19.379      0.000       0.204       0.250
+free_cancellation        0.0042      0.032      0.130      0.897      -0.059       0.067
+reviews_count_scaled    -0.1251      0.009    -14.249      0.000      -0.142      -0.108
+price_scaled             0.0727      0.013      5.669      0.000       0.048       0.098
+==============================================================================
+Omnibus:                       74.798   Durbin-Watson:                   1.970
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              189.368
+Skew:                          -0.527   Prob(JB):                     7.57e-42
+Kurtosis:                       5.209   Cond. No.                         40.6
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified."

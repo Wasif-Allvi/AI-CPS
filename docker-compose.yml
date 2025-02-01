@@ -1,0 +1,15 @@
+version: '3'
+services:
+  knowledgebase:
+    image: wasif89/knowledgebase_sentiment_analysis:latest
+    volumes:
+      - ai_system:/tmp
+
+  codespace:
+    image: wasif89/codespace_sentiment_analysis:latest
+    volumes:
+      - ai_system:/tmp
+
+volumes:
+  ai_system:
+    external: true
