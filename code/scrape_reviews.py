@@ -3,6 +3,7 @@ import time
 import pandas as pd
 from playwright.sync_api import sync_playwright
 
+
 def main():
     with sync_playwright() as p:
         # Parameters
