@@ -1,14 +1,12 @@
 cff-version: 1.2.0
-title: AI-CPS Repository
+title: AI-based Sentiment Analysis for Hotel Customer Reviews
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - family-names: Grum
-    orcid: 'https://orcid.org/0000-0002-3815-4238'
-    given-names: Marcus
+  - family-names: Allvi
+    given-names: Mustafa Wasif
 version: 1.0.0
-doi: TBD
-date-released: 2022-04-28
-url: "https://github.com/MarcusGrum/AI-CPS.git"
+date-released: 2025-02-01  # YYYY-MM-DD
+repository-code: "https://github.com/Wasif-Allvi/AI-CPS"
