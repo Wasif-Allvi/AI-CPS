@@ -81,6 +81,7 @@ code/
 data/
 ├── hotels_list.csv            # Raw data
 ├── joint_data_collection.csv  # Processed data
+```
 
 ### Docker Images
 ```
