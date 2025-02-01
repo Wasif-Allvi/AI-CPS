@@ -13,5 +13,5 @@ Contains activation data for sentiment analysis model testing:
 - Cancellation policies
 - Review counts and price metrics
 
-## License
+## License 
 This project is licensed under the AGPL-3.0 license.

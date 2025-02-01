@@ -12,5 +12,5 @@ Created as part of the course 'M. Grum: Advanced AI-based Application Systems' b
 - Models predict hotel review sentiment scores based on customer reviews
 - Features: review text, free cancellation, reviews count, and price
 
-## License
+## License 
 This project is licensed under the AGPL-3.0 license.
