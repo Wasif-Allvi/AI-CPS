@@ -6,5 +6,5 @@ RUN mkdir -p /tmp/activationBase
 # Copy activation data
 COPY tmp/activationBase/activation_data.csv /tmp/activationBase/
 
-# Copy README
+# Copy README 
 COPY README.md /

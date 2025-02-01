@@ -7,5 +7,5 @@ RUN mkdir -p /tmp/knowledgeBase
 COPY tmp/knowledgeBase/currentAiSolution.h5 /tmp/knowledgeBase/
 COPY tmp/knowledgeBase/currentOlsSolution.pkl /tmp/knowledgeBase/
 
-# Copy README
+# Copy README 
 COPY README.md /
