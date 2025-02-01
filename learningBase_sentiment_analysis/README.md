@@ -9,5 +9,5 @@ This image was created as part of the course 'M. Grum: Advanced AI-based Applica
 ## Data Origin
 The data was scraped from Booking.com customer reviews using Python web scraping tools. The dataset contains hotel reviews, ratings, and related metrics for sentiment analysis.
 
-## License
+## License 
 This project is licensed under the AGPL-3.0 license.
